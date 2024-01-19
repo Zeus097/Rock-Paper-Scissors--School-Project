@@ -8,3 +8,7 @@ Rock-Paper-Scissors is a simple two-player game, where you and your opponent (
 * Paper beats rock (the paper covers the rock)
 The winner is the player whose choice beats the choice of his opponent. If both players choose the same option (e.g., "paper"), the game outcome is "draw".
 
+The project goal is to entertain.
+The player choose how many games wants to play [1 - 101].
+
+The game was created with Python source code.
