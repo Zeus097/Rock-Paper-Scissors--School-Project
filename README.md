@@ -17,9 +17,15 @@ for rock --> r
 for paper --> p
 for scissors --> s
 
-possible game situations
+possible game outcomes :
+
+
 <img width="180" alt="image" src="https://github.com/Zeus097/Rock-Paper-Scissors--School-Project/assets/142613528/23aecf42-242b-4c49-b8c7-652b86aa94be">
 
 
-The game was created with Python source code.
 
+Used "randint()", a method from the build-in library - "random" in Python for The Computer choice
+Added color text using ANSI code in Python
+
+
+The game was created with Python source code.
