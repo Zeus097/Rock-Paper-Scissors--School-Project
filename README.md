@@ -11,4 +11,15 @@ The winner is the player whose choice beats the choice of his opponent. If bot
 The project goal is to entertain.
 The player choose how many games wants to play [1 - 101].
 
+Input and Output
+The player enters one of the following options:
+for rock --> r
+for paper --> p
+for scissors --> s
+
+possible game situations
+<img width="180" alt="image" src="https://github.com/Zeus097/Rock-Paper-Scissors--School-Project/assets/142613528/23aecf42-242b-4c49-b8c7-652b86aa94be">
+
+
 The game was created with Python source code.
+
