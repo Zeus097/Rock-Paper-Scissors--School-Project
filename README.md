@@ -33,6 +33,8 @@ Added color text using ANSI code in Python
 
 The game was created with Python source code.
 
+Gameplay screenshots:
+
 
 
 ![1_Screenshot 2024-01-20 at 13 19 04](https://github.com/Zeus097/Rock-Paper-Scissors--School-Project/assets/142613528/1f286f1e-de99-40e3-ab76-f465973655cb)
