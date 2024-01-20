@@ -38,35 +38,8 @@
 
 
 ![1_Screenshot 2024-01-20 at 13 19 04](https://github.com/Zeus097/Rock-Paper-Scissors--School-Project/assets/142613528/1f286f1e-de99-40e3-ab76-f465973655cb)
-
-
-
 ![2_Screenshot 2024-01-20 at 13 20 55](https://github.com/Zeus097/Rock-Paper-Scissors--School-Project/assets/142613528/46ee3d9a-e70f-4264-b1d4-74eb1171e407)
-
-
-
 ![3_Screenshot 2024-01-20 at 13 20 05](https://github.com/Zeus097/Rock-Paper-Scissors--School-Project/assets/142613528/3fa521c3-4c74-4413-b8ee-773295253daf)
-
-
-
 ![4_Screenshot 2024-01-20 at 13 21 47](https://github.com/Zeus097/Rock-Paper-Scissors--School-Project/assets/142613528/739cf56e-a34f-48d7-ae59-3485c918290b)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
